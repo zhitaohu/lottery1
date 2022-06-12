@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lottery-rpc" />
+        <module name="lottery-common" />
+        <module name="lotterty-interfaces" />
+        <module name="lottery-domain" />
+        <module name="lottery-application" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
